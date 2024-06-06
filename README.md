@@ -132,10 +132,10 @@ Optimiza las consultas a la base de datos para reducir el tiempo de respuesta de
 
 Monitoriza el rendimiento de tu aplicación utilizando herramientas como New Relic o AppDynamics para identificar y solucionar problemas de rendimiento en tiempo real.
 
-𝓟𝓻𝓾𝓮𝓫𝓪𝓼 𝓭𝓮 𝓡𝓮𝓷𝓭𝓲𝓶𝓲𝓮𝓷𝓽𝓸:
+𝓡𝓮𝓼𝓾𝓵𝓽𝓪𝓭𝓸:
 ![image](https://github.com/KevColomaDev/Laboratorio10/assets/150806786/d6819678-08d3-476e-bff3-73fa06111aeb)
 
-𝓡𝓮𝓼𝓾𝓵𝓽𝓪𝓭𝓸:
+
 ![image](https://github.com/KevColomaDev/Laboratorio10/assets/150806786/e1897d44-d05d-4c81-91c2-d948fc80e324)
 
 
